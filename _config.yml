@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: 황인철
+name: 인철쓰
 
 # Short bio or description (displayed in the header)
-description: 깊이를 추구하는 개발자로 살아가려 노력합니다.
+description: 행복한 삶을 꿈꾸는 사람으로 살기 위해 노력합니다.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/my_picture.jpg
+avatar:
 
 #
 # Flags below are optional
@@ -36,12 +36,12 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# deEnter your Google Analytics web tracking co (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://incheol1024.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
