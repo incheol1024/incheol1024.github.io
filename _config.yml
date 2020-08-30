@@ -85,5 +85,7 @@ exclude:
   - README.md
   - CNAME
 
+theme: jekyll-theme-cayman
+
 page:
   title: dkdkdkdkdkdkdk
