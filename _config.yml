@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 인철쓰
+name: 황인철
 
 # Short bio or description (displayed in the header)
-description: 행복한 삶을 꿈꾸는 사람으로 살기 위해 노력합니다.
+description: 개발자입니다.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -77,6 +77,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate-v2
 
 # Exclude these files from your production _site
 exclude:
@@ -95,7 +96,7 @@ content: aaaa
 
 pagination:
   enable: true
-  per_page: 12
+  per_page: 1
   sort_reverse: true
   title: ':title'
   trail:
